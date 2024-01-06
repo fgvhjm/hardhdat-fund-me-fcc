@@ -1,0 +1,3 @@
+unit test are done locally 
+-locla hardhat network or forked network
+staging tests can be done on a test net
